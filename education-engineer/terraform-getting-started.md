@@ -138,7 +138,7 @@ Apply complete! Resources: 2 added, 0 changed, 0 destroyed.
 To check that the `nginx` image was successfully downloaded, you can run the `docker image ls` command:
 
 ```shell
-docker images
+docker image ls
 REPOSITORY                 TAG                   IMAGE ID       CREATED         SIZE
 nginx                      latest                b692a91e4e15   2 weeks ago     142MB
 ```
